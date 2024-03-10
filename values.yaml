@@ -24,10 +24,10 @@ ingress:
   paths:
     - /
   hosts:
-    - name: uptime.internal.oceanai.io
+    - name: uptime.biggibson.cocotree.cc
   tls:
     - hosts:
-        - uptime.internal.oceanai.io
+        - uptime.biggibson.cocotree.cc
 
 resources: {}
 
